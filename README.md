@@ -2,16 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Tanvir, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/7826/7826304.png" width="13"/> <b>Dhaka, Bangladesh.</p>
-<h3>Things I code with</h3>
-<p>
 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
