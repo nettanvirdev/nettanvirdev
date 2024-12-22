@@ -68,17 +68,7 @@
 
 ## 📊 GitHub Analytics
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nettanvirdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
 
-<p>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nettanvirdev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettanvirdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nettanvirdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
