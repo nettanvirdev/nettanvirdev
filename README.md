@@ -83,8 +83,7 @@
 
 | 🎁 Featured Projects | ⭐ Stars | 📚 Forks | 
 |-------------------|----------|-----------|
-| [awesome-project](https://github.com/nettanvirdev/awesome-project) | ![](https://img.shields.io/github/stars/nettanvirdev/awesome-project?style=flat-square) | ![](https://img.shields.io/github/forks/nettanvirdev/awesome-project?style=flat-square) |
-| [cool-app](https://github.com/nettanvirdev/cool-app) | ![](https://img.shields.io/github/stars/nettanvirdev/cool-app?style=flat-square) | ![](https://img.shields.io/github/forks/nettanvirdev/cool-app?style=flat-square) |
+| [awesome-project](https://github.com/nettanvirdev/dunewebview) | ![](https://img.shields.io/github/stars/nettanvirdev/dunewebview?style=flat-square) | ![](https://img.shields.io/github/forks/nettanvirdev/dunewebview?style=flat-square) 
 
 </div>
 
