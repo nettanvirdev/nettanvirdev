@@ -129,9 +129,7 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 ## 💡 Fun Fact
 
-> *"I think I am very detailed & talk too much about details."* 
-> 
-> This attention to detail is what drives me to create polished, well-documented, and thoroughly tested applications. Every line of code tells a story, and I believe in making that story as clear and meaningful as possible.
+> *""If the world hates you, then remember it hated me first.""* 
 
 ---
 
