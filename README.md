@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nettanvirdev" alt="nettanvirdev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nettanvirdev](https://github.com/nettanvirdev)
+- 👨‍💻 All of my projects are available at [nettanvirdev](https://github.com/nettanvirdev)
 
-- 📝 I regularly write articles on [https://levelpixel.net/pages/blog-2](https://levelpixel.net/pages/blog-2)
+- 📝 I regularly write articles on [https://repo.levelpixel.net/](https://repo.levelpixel.net/).
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nettanvirdev/](https://www.linkedin.com/in/nettanvirdev/)
 
