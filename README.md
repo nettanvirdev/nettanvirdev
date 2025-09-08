@@ -37,7 +37,15 @@ const tanvir = {
 + Contributing to open source
 + Writing technical content
 ```
+## `💡 daily.commits`
 
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nettanvirdev&theme=react-dark&hide_border=true)
+
+</div>
+
+---
 ## `📡 connect.links`
 
 <div align="center">
