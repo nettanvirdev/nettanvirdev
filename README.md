@@ -1,6 +1,4 @@
-<!-- MATRIX RAIN HEADER -->
 <div align="center">
-
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=TANVIR+%2F%2F+ENGINEER;Building+the+impossible..." alt="Typing SVG" />
 
@@ -16,7 +14,6 @@
 
 ---
 
-<!-- SYSTEM BOOT SEQUENCE -->
 ```bash
 $ system.boot --user=tanvir --verbose
 
@@ -32,13 +29,6 @@ $ system.boot --user=tanvir --verbose
 ```
 
 ---
-
-<br/>
-
-<!-- WHO AM I -->
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ## ◈ `identity.decrypt()`
 
@@ -70,8 +60,7 @@ const tanvir = {
 export default tanvir;
 ```
 
-</td>
-<td width="50%" valign="top">
+---
 
 ## ◈ `stack.load()`
 
@@ -83,32 +72,27 @@ class Tanvir:
         "Python     ████████░░ 80%",
         "C#         ███████░░░ 70%",
     ]
-    
+
     frontend = ["React", "Next.js", "Vue"]
     backend  = ["Node.js", "Django", "FastAPI"]
     database = ["PostgreSQL", "MongoDB", "Redis"]
     cloud    = ["AWS", "Docker", "Git"]
-    
+
     def __init__(self):
         self.coffee = float('inf')
         self.sleep  = 0
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- GITHUB STATS -->
 ## ◈ `stats.render()`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nettanvirdev&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff4133&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nettanvirdev&theme=dark&background=0d1117&border=00ff4133&stroke=00ff41&ring=58a6ff&fire=ff6b6b&currStreakLabel=00ff41&sideLabels=58a6ff&dates=888" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nettanvirdev&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff4133&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nettanvirdev&theme=dark&background=0d1117&border=00ff4133&stroke=00ff41&ring=58a6ff&fire=ff6b6b&currStreakLabel=00ff41&sideLabels=58a6ff&dates=888" />
 
-<br/>
+<br/><br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettanvirdev&layout=donut&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff4133&title_color=00ff41&text_color=c9d1d9" />
 
@@ -116,18 +100,16 @@ class Tanvir:
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 ## ◈ `activity.trace()`
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nettanvirdev&theme=react-dark&bg_color=0d1117&color=00ff41&line=58a6ff&point=ff6b6b&area=true&hide_border=true&area_color=58a6ff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nettanvirdev&theme=react-dark&bg_color=0d1117&color=00ff41&line=58a6ff&point=ff6b6b&area=true&hide_border=true&area_color=58a6ff" />
 
 </div>
 
 ---
 
-<!-- CURRENT MISSION -->
 ## ◈ `mission.current()`
 
 ```diff
@@ -145,19 +127,16 @@ class Tanvir:
 
 ---
 
-
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
 ## ◈ `commits.visualize()`
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nettanvirdev&theme=react-dark&bg_color=0d1117&color=00ff41&line=58a6ff&point=ff6b6b&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nettanvirdev&theme=react-dark&bg_color=0d1117&color=00ff41&line=58a6ff&point=ff6b6b&area=true&hide_border=true" />
 
 </div>
+
 ---
 
-<!-- TECH ARSENAL -->
 ## ◈ `arsenal.display()`
 
 <div align="center">
@@ -171,6 +150,8 @@ class Tanvir:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<br/>
+
 **— BACKEND —**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -178,6 +159,8 @@ class Tanvir:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<br/>
 
 **— DATA & INFRA —**
 
@@ -192,7 +175,6 @@ class Tanvir:
 
 ---
 
-<!-- CONNECT -->
 ## ◈ `network.connect()`
 
 <div align="center">
@@ -218,7 +200,6 @@ Have an idea? A collab? A bug so cursed it broke reality?
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 ```
