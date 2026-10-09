@@ -30,7 +30,7 @@ Most of my work runs the full length of a product - shaping the idea, designing 
 
 <img src="https://cdn.nettanvir.dev/personal/nettanvir.dev/logo-64.png" width="16" alt="" /> **[Inertia AI](https://nettanvir.dev/inertia-ai)** - Open-source desktop workspace for AI agents, built for chat, tools, sandboxes, and real product workflows.
 
-<img src="https://cdn.nettanvir.dev/personal/nettanvir.dev/logo-64.png" width="16" alt="" /> **[Maxdrive](https://nettanvir.dev/maxdrive)** - Secure multi-cloud storage layer that pools Google Drive accounts and S3-compatible buckets into one encrypted drive with AI-ready MCP access.
+<img src="https://nettanvir.dev/work/maxdrive/logo-256.png" width="16" alt="" /> **[Maxdrive](https://nettanvir.dev/maxdrive)** - Secure multi-cloud storage layer that pools Google Drive accounts and S3-compatible buckets into one encrypted drive with AI-ready MCP access.
 
 ---
 
