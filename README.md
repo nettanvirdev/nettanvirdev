@@ -18,17 +18,19 @@ I build software end to end - whatever the stack, whatever the problem.
 
 ## 🧠 About
 
-I work  on **AI systems and AI products** - LLM-backed pipelines, agents, retrieval, evaluation, and the unglamorous plumbing that makes them reliable in production. But AI is a tool, not an identity: I build anything the problem calls for, with or without a model in the loop.
+I work  on **AI systems and AI products** - LLM-backed pipelines, agents, retrieval, evaluation, and the unglamorous plumbing that makes them reliable in production. But AI is a tool, not an identity. The hard part is not generating output; it's building something useful, reliable, and worth using.
 
 I care more about the problem than the tools used to solve it. Tools are learnable; judgement is the hard part.
 
-Most of my work runs the full length of a product - shaping the idea, designing the system, building it, putting it in front of real users, and keeping it running afterwards. I like the parts other people skip: the edge cases, the migration path, the thing that breaks at 3am.
+Most of my work runs the full length of a product - shaping the idea, designing the system, building it, putting it in front of real users, and keeping it running afterwards. I like the parts other people skip: the architecture decisions, the failure modes, the messy edge cases, and the small usability details that make a tool actually get used.
 
 ---
 
 ## 📌 Projects
 
-<img src="https://cdn.nettanvir.dev/personal/nettanvir.dev/logo-64.png" width="16" alt="" /> **[Inertia AI](https://nettanvir.dev/inertia-ai)** - Open-source desktop workspace for AI agents, built from scratch in Rust · [source](https://github.com/nettanvirdev/inertia)
+<img src="https://cdn.nettanvir.dev/personal/nettanvir.dev/logo-64.png" width="16" alt="" /> **[Inertia AI](https://nettanvir.dev/inertia-ai)** - Open-source desktop workspace for AI agents, built for chat, tools, sandboxes, and real product workflows.
+
+<img src="https://cdn.nettanvir.dev/personal/nettanvir.dev/logo-64.png" width="16" alt="" /> **[Maxdrive](https://nettanvir.dev/maxdrive)** - Secure multi-cloud storage layer that pools Google Drive accounts and S3-compatible buckets into one encrypted drive with AI-ready MCP access.
 
 ---
 
@@ -46,7 +48,7 @@ Most of my work runs the full length of a product - shaping the idea, designing 
 
 ## 🏆 Awards
 
-**Champion, AI Olympiad Bangladesh 2025** - Secondary category (college level), organised by Daffodil International University · [Prothom Alo report](https://www.prothomalo.com/bangladesh/4ukd4oai8u) · [announcement](https://www.prothomalo.com/education/campus/689qhjjwhw)
+**Champion, AI Olympiad Bangladesh 2025** - Secondary category (college level), organised by Daffodil International University · [Prothom Alo report](https://www.prothomalo.com/bangladesh/4ukd4oaqzj)
 
 ---
 
