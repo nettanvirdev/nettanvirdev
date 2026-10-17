@@ -32,6 +32,8 @@ Most of my work runs the full length of a product - shaping the idea, designing 
 
 <img src="https://nettanvir.dev/work/maxdrive/logo-256.png" width="16" alt="" /> **[Maxdrive](https://nettanvir.dev/maxdrive)** - Secure multi-cloud storage layer that pools Google Drive accounts and S3-compatible buckets into one encrypted drive with AI-ready MCP access.
 
+<img src="assets/sonicnet.png" width="16" alt="" /> **[SonicNet](https://github.com/nettanvirdev/sonicnet)** - Windows app that combines every internet connection you have (Wi-Fi, Ethernet, a tethered phone) into one, for split multi-network downloads and system-wide traffic. Written in Rust.
+
 ---
 
 ## 🚀 What I Do
