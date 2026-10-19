@@ -50,7 +50,7 @@ Most of my work runs the full length of a product - shaping the idea, designing 
 
 ## 🎓 Certifications
 
-**[CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/538cc47c-0476-4e03-924c-348be404ca5a)** - Harvard University, 2026
+**[CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/538cc47c-0476-4e03-924c-348be404ca5a)** - CS50 (Harvard), 2026
 
 ---
 
