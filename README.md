@@ -48,6 +48,12 @@ Most of my work runs the full length of a product - shaping the idea, designing 
 
 ---
 
+## 🎓 Certifications
+
+**[CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/538cc47c-0476-4e03-924c-348be404ca5a)** - Harvard University, 2026
+
+---
+
 ## 🏆 Awards
 
 **Champion, AI Olympiad Bangladesh 2025** - Secondary category (college level), organised by Daffodil International University · [Prothom Alo report](https://www.prothomalo.com/bangladesh/4ukd4oaqzj)
