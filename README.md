@@ -34,6 +34,12 @@ Most of my work runs the full length of a product - shaping the idea, designing 
 
 <img src="assets/sonicnet.png" width="16" alt="" /> **[SonicNet](https://github.com/nettanvirdev/sonicnet)** - Windows app that combines every internet connection you have (Wi-Fi, Ethernet, a tethered phone) into one, for split multi-network downloads and system-wide traffic. Written in Rust.
 
+<img src="assets/simple-rag.png" width="16" alt="" /> **[Simple RAG](https://github.com/nettanvirdev/simple_rag)** - Retrieval-augmented generation from first principles: keyword search, TF-IDF, BM25 and semantic search built from scratch, then a RAG that answers with cited sources. [Step-by-step guide](https://nettanvir.dev/docs).
+
+<img src="assets/advanced-rag.png" width="16" alt="" /> **[Advanced RAG](https://github.com/nettanvirdev/advanced_rag)** - Chunking, ChromaDB, hybrid search, cross-encoder reranking, Redis caching, an evaluation set and a FastAPI service, each step measured before and after. 95% retrieval hit rate, 19/19 cited answers.
+
+<img src="assets/optimized-rag.png" width="16" alt="" /> **[Optimized RAG](https://github.com/nettanvirdev/advanced_rag/tree/optimization)** - The production branch: precomputed BM25 (320 ms → 0.18 ms), incremental indexing, a guarded semantic cache, streaming, and Docker with a CI quality gate. Clone it and run `docker compose up`.
+
 ---
 
 ## 🚀 What I Do
