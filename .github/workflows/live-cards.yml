@@ -1,0 +1,77 @@
+name: Live profile cards
+
+"on":
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 0 */3 * *"   # every 3 days
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/live-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Contribution card
+        run: node scripts/contrib-card.mjs
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/live/snake-light.svg?color_snake=#152717&color_dots=#f0eee9,#ecffb2,#7cee6a,#39594d,#152717
+            assets/live/snake-dark.svg?color_snake=#7cee6a&color_dots=#24242c,#23402c,#39594d,#5fae5a,#7cee6a
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&border_radius=24&bg_color=f0eee9&title_color=212121&text_color=73738a&icon_color=39594d&ring_color=39594d
+          path: assets/live/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&border_radius=24&bg_color=17171c&title_color=ffffff&text_color=9a9aae&icon_color=7cee6a&ring_color=7cee6a
+          path: assets/live/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=395&hide_border=true&border_radius=24&bg_color=f0eee9&title_color=212121&text_color=73738a
+          path: assets/live/langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=395&hide_border=true&border_radius=24&bg_color=17171c&title_color=ffffff&text_color=9a9aae
+          path: assets/live/langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Frame stats + languages cards
+        run: node scripts/frame-cards.mjs
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/live
+          git diff --staged --quiet || git commit -m "chore: refresh live cards [skip ci]"
+          git push
