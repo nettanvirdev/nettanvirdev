@@ -1,7 +1,6 @@
-
-      <svg
-        width="467"
-        height="195"
+<svg xmlns="http://www.w3.org/2000/svg" data-framed="1" width="600" height="264.51" viewBox="0 0 600 264.51"><svg
+        x="12" y="12" width="576"
+        height="240.51"
         viewBox="0 0 467 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -9,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Tanvir Ahamed&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 133, Total PRs: 22, Total Issues: 12, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 134, Total PRs: 22, Total Issues: 12, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +72,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 191.52119203234358;
+        stroke-dashoffset: 191.44098283264788;
       }
     }
   
@@ -184,7 +183,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >133</text>
+      >134</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -235,5 +234,4 @@
     </svg>
   
         </g>
-      </svg>
-    
+      </svg></svg>
